@@ -1,5 +1,5 @@
 def say_hello():
-    print("Hello!" + get_name())
+    print("HELLO!" + get_name())
 
 
 def say_goodbye():
